@@ -7,14 +7,14 @@ h1{
 html, body{
   overflow: hidden;
 }
-#overlay {
+/*#overlay {
   width: 100vw;
   height: 100vh;
   background-color: black;
   color: white;
   z-index:9999;
   position: fixed;
-}
+}*/
 .hidden {
   display: none;
 }
